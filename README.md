@@ -6,6 +6,12 @@
 
 Usefull Commands starts with a simple goal: give the project a clear home for context, setup notes, and the next useful improvement. The repository is intentionally compact today, so the README focuses on turning the current shape into a clear starting point for the next round of work.
 
+## Detailed Description
+
+Usefull Commands is a reference notebook for useful commands, snippets, and repeatable developer workflows. This README is meant to explain the project like a handoff note: what the idea is, why the repository exists, and how someone can start working with it without opening every file first.
+
+The repository is intentionally small, so the README carries more of the context. As implementation grows, it should become the place that explains the problem, the shape of the solution, and the fastest way to evaluate it.
+
 ## What It Includes
 
 - A compact project surface that can grow as implementation details are added.
